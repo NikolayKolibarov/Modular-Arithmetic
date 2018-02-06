@@ -1,0 +1,3 @@
+/Users/nikolaykolibarov/CLionProjects/modular-arithmetic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikolaykolibarov/CLionProjects/modular-arithmetic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikolaykolibarov/CLionProjects/modular-arithmetic/cmake-build-debug/CMakeFiles/modular_arithmetic.dir
